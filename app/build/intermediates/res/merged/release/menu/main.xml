@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/ic_action_overflow"
+        android:title="@string/general_preferences"
+        android:showAsAction="ifRoom"/>
+    <!--
+    replaced  
+    android:title="@string/action_settings"/>
+    with
+    android:title="@string/main_menu"/>
+    /media/10/dev/kobo/KoboCollect/res/menu/main.xml:3: error: Error: No resource found that matches the given name (at 'title' with value '@string/action_settings'). 
+     -->
+
+</menu><!-- From: file:/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/src/main/res/menu/main.xml -->

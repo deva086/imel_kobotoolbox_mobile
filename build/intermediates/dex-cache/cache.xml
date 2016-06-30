@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/libs/mqttv3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4221d84a89a12813a4eecd4c6f5193373e997cbe">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/build/intermediates/pre-dexed/debug/mqttv3-961d97dc264a041bf75219dd76fa7f51324531e5.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/libs/opencsv-2.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0ffd01065bc3fe571e1a4eb7014a03333f0663d">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/build/intermediates/pre-dexed/debug/opencsv-2.3-438a0d13928f18ed4d4c3a1f8d5d189ba8063b72.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/libs/joda-time-2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="752c0fe8a5b2d6704c9d9d6f06d9abdcacf4045d">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/build/intermediates/pre-dexed/release/joda-time-2.0-6787ee5f4f140b385ef99ca366cfbcf2e2cd13c2.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/build/intermediates/pre-dexed/debug/android-support-v4-55a6a5f8ca9433e4c857e66fdb159b5432ba5481.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/libs/javarosa-libraries-2013-09-30.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="514fa7394b2fc1db8333fbb46fa93161297c4b80">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/build/intermediates/pre-dexed/release/javarosa-libraries-2013-09-30-470cefdca75947907cf44f6cf8fd7552c6f40654.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/libs/gson-2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bd858833cacb4e6742f7698649fb874a360e230f">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/build/intermediates/pre-dexed/release/gson-2.1-83b63828a05a1d93bcbd32a8e7a79cf77c8d1053.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/libs/httpclientandroidlib-4.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bdf7922c7f165bc2f4ec893eaf97e4abe47f97f">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/build/intermediates/pre-dexed/release/httpclientandroidlib-4.2.1-27e929928f937584211b6625213bf2067b6fd2e4.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cebe8e4a3a469c4623addcca1dc571407ff3a08e">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/build/intermediates/pre-dexed/release/google-play-services-9ae2921cb609c845f8d77e688987530be47efc2a.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/libs/regexp-me.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="27edcd147dfc908a3c3c837a57d3672d52f2f609">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/build/intermediates/pre-dexed/debug/regexp-me-2021c2c160b79d3ee92f2bf57713e76a59cdfc17.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/build/intermediates/pre-dexed/release/httpmime-4.1.3-e54743c0ec291596e7c7a2cecd2da0b7df196985.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/libs/mqttv3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4221d84a89a12813a4eecd4c6f5193373e997cbe">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/build/intermediates/pre-dexed/release/mqttv3-faa518bdfccf55564264f338a1f91f0801685467.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cebe8e4a3a469c4623addcca1dc571407ff3a08e">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/build/intermediates/pre-dexed/debug/google-play-services-1966aeb3cd95e07a5b7b2e1ccf086914aa568555.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/libs/javarosa-libraries-2013-09-30.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="514fa7394b2fc1db8333fbb46fa93161297c4b80">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/build/intermediates/pre-dexed/debug/javarosa-libraries-2013-09-30-a1a278e2089c2c20993af4c555a2835e202e0aba.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/libs/kxml2-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/build/intermediates/pre-dexed/release/kxml2-2.3.0-07f74cdd46208c098b2b96e0157851396978b4d5.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/libs/kxml2-2.3.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/build/intermediates/pre-dexed/debug/kxml2-2.3.0-d89bd1be90a38d4e6a837e3093821d7da134d734.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/libs/opencsv-2.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0ffd01065bc3fe571e1a4eb7014a03333f0663d">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/build/intermediates/pre-dexed/release/opencsv-2.3-2b15004606bfb48081de864c46c47fe0a9ce1b53.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/libs/regexp-me.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="27edcd147dfc908a3c3c837a57d3672d52f2f609">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/build/intermediates/pre-dexed/release/regexp-me-c3cddd30e93aa9a9ea177af8e1f3de0c131c09a4.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/kobocollect/app/build/intermediates/pre-dexed/release/android-support-v4-65039f4df93896ca094f8f3ce01b7e4e2cd41b2c.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/libs/joda-time-2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="752c0fe8a5b2d6704c9d9d6f06d9abdcacf4045d">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/build/intermediates/pre-dexed/debug/joda-time-2.0-83fc8ce360d8e2c1eced53b0dc40f27e0713453d.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/libs/httpclientandroidlib-4.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bdf7922c7f165bc2f4ec893eaf97e4abe47f97f">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/build/intermediates/pre-dexed/debug/httpclientandroidlib-4.2.1-179bdcb5b75b3f146b79457101c9722716c31a55.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/libs/gson-2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bd858833cacb4e6742f7698649fb874a360e230f">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/build/intermediates/pre-dexed/debug/gson-2.1-713af1501b3169ab7a6890d05871fa7fd7a412a1.jar" />
+    </item>
+    <item
+        jar="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/home/ratna/All_Compiler/android-studio/Test_Project/KObo_firstRelaese/kobocollect/app/build/intermediates/pre-dexed/debug/httpmime-4.1.3-afd85a68bff3f85d53ddd3cd2bde4f0330650814.jar" />
+    </item>
+
+</items>
